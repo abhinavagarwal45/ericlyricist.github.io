@@ -1,0 +1,29 @@
+.bgimg{
+	background-image: url('PicsArt_04-16-08.22.12.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%
+}
+
+.headerset{
+	padding-top: 200px;
+	box-sizing: border-box;
+}
+
+.headerset h2{
+	font-size: 22px;
+}
+
+.bgimage{
+	background-image: url('PSX_20190415_112007.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	height: 100vh;
+	width: 100%
+}
+
+.abhinav{
+	width: 50;
+	height: 100;
+}
